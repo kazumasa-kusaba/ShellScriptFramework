@@ -12,7 +12,7 @@ Each script is guaranteed not to be executed at the same time.
 # How to use
 Implement each process you want to do in `scripts/init.sh`, `scripts/main.sh`, `scripts/exit.sh`.  
 
-Call `start.sh`.  
+Finally, just call the following script.  
 ```terminal
 ./start.sh
 ```
